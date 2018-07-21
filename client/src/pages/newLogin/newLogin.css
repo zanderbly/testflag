@@ -1,0 +1,31 @@
+/* .MuiInput-input-25 {
+
+    padding-top: 25px !important; 
+    padding-right: 0px !important;
+    padding-bottom: 7px !important;
+    padding-left: 0px !important; 
+    
+
+} */
+
+
+
+
+input {
+    font-size:25px !important;
+}
+
+.form{
+    margin-top:15rem;
+    margin-bottom: 100px;
+}
+
+.email {
+    margin-bottom:25px;
+}
+
+.but {
+    margin-top:35px;
+   
+}
+

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+@font-face{
+    font-family: 'Raleway', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Raleway')
+}
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url('../../images/shattered.png');
+}
+
+
+
+
+
+
+

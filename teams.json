@@ -1,0 +1,146 @@
+{"name":"Baltimore Orioles", "league":"MLB", "coordinates": { "lng": -76.6217 , "lat": 39.2839 } }
+{"name":"Boston Red Sox", "league":"MLB", "coordinates": { "lng": -71.0975, "lat": 42.3464 } }
+{"name":"New York Yankees", "league":"MLB", "coordinates": { "lng": -73.9264, "lat": 40.8292 } }
+{"name":"Tampa Bay Rays", "league":"MLB", "coordinates": { "lng": -82.6533, "lat": 27.7683 } }
+{"name":"Toronto Blue Jays", "league":"MLB", "coordinates": { "lng": -79.3892, "lat": 43.6414 } }
+{"name":"Chicago White Sox", "league":"MLB", "coordinates": { "lng": -87.6339, "lat": 41.8300 } }
+{"name":"Cleveland Indians", "league":"MLB", "coordinates": { "lng": -81.6853, "lat": 41.4958 } }
+{"name":"Detroit Tigers", "league":"MLB", "coordinates": { "lng": -83.0486, "lat": 42.3392 } }
+{"name":"Kansas City Royals", "league":"MLB", "coordinates": { "lng": -94.4806, "lat": 39.0514 } }
+{"name":"Minnesota Twins", "league":"MLB", "coordinates": { "lng": -93.2783, "lat": 44.9817 } }
+{"name":"Houston Astros", "league":"MLB", "coordinates": { "lng": -95.3556, "lat": 29.7569 } }
+{"name":"Los Angeles Angels", "league":"MLB", "coordinates": { "lng": -117.8828, "lat": 33.8003 } }
+{"name":"Oakland Athletics", "league":"MLB", "coordinates": { "lng": -122.2006, "lat": 37.7517 } }
+{"name":"Seattle Mariners", "league":"MLB", "coordinates": { "lng": -122.3325, "lat": 47.5914 } }
+{"name":"Texas Rangers", "league":"MLB", "coordinates": { "lng": -97.0828, "lat": 32.7514 } }
+{"name":"Atlanta Braves", "league":"MLB", "coordinates": { "lng": -84.4678, "lat": 33.8900 } }
+{"name":"Miami Marlins", "league":"MLB", "coordinates": { "lng": -80.2197, "lat": 25.7781 } }
+{"name":"New York Mets", "league":"MLB", "coordinates": { "lng": -73.8458, "lat": 40.7569 } }
+{"name":"Philadelphia Phillies", "league":"MLB", "coordinates": { "lng": -75.1664, "lat": 39.9058 } }
+{"name":"Washington Nationals", "league":"MLB", "coordinates": { "lng": -77.0075, "lat": 38.8728 } }
+{"name":"Chicago Cubs", "league":"MLB", "coordinates": { "lng": -87.6556, "lat": 41.9483 } }
+{"name":"Cincinnati Reds", "league":"MLB", "coordinates": { "lng": -84.5067, "lat": 39.0975 } }
+{"name":"Milwaukee Brewers", "league":"MLB", "coordinates": { "lng": -87.9711, "lat": 43.0283 } }
+{"name":"Pittsburgh Pirates", "league":"MLB", "coordinates": { "lng": -80.0058, "lat": 40.4469 } }
+{"name":"St. Louis Cardinals", "league":"MLB", "coordinates": { "lng": -90.1931, "lat": 38.6225 } }
+{"name":"Arizona Diamondbacks", "league":"MLB", "coordinates": { "lng": -112.0669, "lat": 33.4453 } }
+{"name":"Colorado Rockies", "league":"MLB", "coordinates": { "lng": -104.9942, "lat": 39.7561 } }
+{"name":"Los Angeles Dodgers", "league":"MLB", "coordinates": { "lng": -118.2400, "lat": 34.0736 } }
+{"name":"San Diego Padres", "league":"MLB", "coordinates": { "lng": -117.1567, "lat": 32.7072 } }
+{"name":"San Francisco Giants", "league":"MLB", "coordinates": { "lng": -122.3892, "lat": 37.7786 } }
+{"name":"Buffalo Bills", "league":"NFL", "coordinates": { "lng": -78.7870, "lat": 42.7740 } }
+{"name":"Miami Dolphins", "league":"NFL", "coordinates": { "lng": -80.2390, "lat": 25.9580 } }
+{"name":"New England Patriots", "league":"NFL", "coordinates": { "lng": -71.2640, "lat": 42.0910 } }
+{"name":"New York Jets", "league":"NFL", "coordinates": { "lng": -74.0740, "lat": 40.8140 } }
+{"name":"Baltimore Ravens", "league":"NFL", "coordinates": { "lng": -76.6230, "lat": 39.2780 } }
+{"name":"Cincinnati Bengals", "league":"NFL", "coordinates": { "lng": -84.5160, "lat": 39.0950 } }
+{"name":"Cleveland Browns", "league":"NFL", "coordinates": { "lng": -81.6990, "lat": 41.5060 } }
+{"name":"Pittsburgh Steelers", "league":"NFL", "coordinates": { "lng": -80.0160, "lat": 40.4470 } }
+{"name":"Houston Texans", "league":"NFL", "coordinates": { "lng": -95.4110, "lat": 29.6850 } }
+{"name":"Indianapolis Colts", "league":"NFL", "coordinates": { "lng": -86.1640, "lat": 39.7600 } }
+{"name":"Jacksonville Jaguars", "league":"NFL", "coordinates": { "lng": -81.6380, "lat": 30.3240 } }
+{"name":"Tennessee Titans", "league":"NFL", "coordinates": { "lng": -86.7710, "lat": 36.1660 } }
+{"name":"Denver Broncos", "league":"NFL", "coordinates": { "lng": -105.0200, "lat": 39.7440 } }
+{"name":"Kansas City Chiefs", "league":"NFL", "coordinates": { "lng": -94.4840, "lat": 39.0490 } }
+{"name":"Los Angeles Chargers", "league":"NFL", "coordinates": { "lng": -118.2610, "lat": 33.8640 } }
+{"name":"Oakland Raiders", "league":"NFL", "coordinates": { "lng": -122.2010, "lat": 37.7520 } }
+{"name":"Dallas Cowboys", "league":"NFL", "coordinates": { "lng": -97.0930, "lat": 32.7480 } }
+{"name":"New York Giants", "league":"NFL", "coordinates": { "lng": -74.0740, "lat": 40.8140 } }
+{"name":"Philadelphia Eagles", "league":"NFL", "coordinates": { "lng": -75.1680, "lat": 39.9010 } }
+{"name":"Washington Redskins", "league":"NFL", "coordinates": { "lng": -76.8640, "lat": 38.9080 } }
+{"name":"Chicago Bears†", "league":"NFL", "coordinates": { "lng": -87.6170, "lat": 41.8630 } }
+{"name":"Detroit Lions", "league":"NFL", "coordinates": { "lng": -83.0460, "lat": 42.3400 } }
+{"name":"Green Bay Packers", "league":"NFL", "coordinates": { "lng": -88.0620, "lat": 44.5010 } }
+{"name":"Minnesota Vikings", "league":"NFL", "coordinates": { "lng": -93.2580, "lat": 44.9740 } }
+{"name":"Atlanta Falcons", "league":"NFL", "coordinates": { "lng": -84.4010, "lat": 33.7550 } }
+{"name":"Carolina Panthers", "league":"NFL", "coordinates": { "lng": -80.8530, "lat": 35.2260 } }
+{"name":"New Orleans Saints", "league":"NFL", "coordinates": { "lng": -90.0810, "lat": 29.9510 } }
+{"name":"Tampa Bay Buccaneers", "league":"NFL", "coordinates": { "lng": -82.5030, "lat": 27.9760 } }
+{"name":"Arizona Cardinals†", "league":"NFL", "coordinates": { "lng": -112.2630, "lat": 33.5280 } }
+{"name":"Los Angeles Rams", "league":"NFL", "coordinates": { "lng": -118.2880, "lat": 34.0140 } }
+{"name":"San Francisco 49ers", "league":"NFL", "coordinates": { "lng": -121.9700, "lat": 37.4030 } }
+{"name":"Seattle Seahawks", "league":"NFL", "coordinates": { "lng": -122.3320, "lat": 47.5950 } }
+{"name":"Boston Celtics", "league":"NBA", "coordinates": { "lng": -71.0622, "lat": 42.3663 } }
+{"name":"Brooklyn Nets", "league":"NBA", "coordinates": { "lng": -73.9747, "lat": 40.6827 } }
+{"name":"New York Knicks", "league":"NBA", "coordinates": { "lng": -73.9936, "lat": 40.7506 } }
+{"name":"Philadelphia 76ers", "league":"NBA", "coordinates": { "lng": -75.1719, "lat": 39.9011 } }
+{"name":"Toronto Raptors", "league":"NBA", "coordinates": { "lng": -79.3792, "lat": 43.6433 } }
+{"name":"Chicago Bulls", "league":"NBA", "coordinates": { "lng": -87.6742, "lat": 41.8806 } }
+{"name":"Cleveland Cavaliers", "league":"NBA", "coordinates": { "lng": -81.6881, "lat": 41.4964 } }
+{"name":"Detroit Pistons", "league":"NBA", "coordinates": { "lng": -83.2456, "lat": 42.6969 } }
+{"name":"Indiana Pacers", "league":"NBA", "coordinates": { "lng": -86.1556, "lat": 39.7639 } }
+{"name":"Milwaukee Bucks", "league":"NBA", "coordinates": { "lng": -87.9169, "lat": 43.0436 } }
+{"name":"Atlanta Hawks", "league":"NBA", "coordinates": { "lng": -84.3964, "lat": 33.7572 } }
+{"name":"Charlotte Hornets", "league":"NBA", "coordinates": { "lng": -80.8392, "lat": 35.2250 } }
+{"name":"Miami Heat", "league":"NBA", "coordinates": { "lng": -80.1881, "lat": 25.7814 } }
+{"name":"Orlando Magic", "league":"NBA", "coordinates": { "lng": -81.3836, "lat": 28.5392 } }
+{"name":"Washington Wizards", "league":"NBA", "coordinates": { "lng": -77.0208, "lat": 38.8981 } }
+{"name":"Denver Nuggets", "league":"NBA", "coordinates": { "lng": -105.0075, "lat": 39.7486 } }
+{"name":"Minnesota Timberwolves", "league":"NBA", "coordinates": { "lng": -93.2761, "lat": 44.9794 } }
+{"name":"Oklahoma City Thunder", "league":"NBA", "coordinates": { "lng": -97.5150, "lat": 35.4633 } }
+{"name":"Portland Trail Blazers", "league":"NBA", "coordinates": { "lng": -122.6667, "lat": 45.5317 } }
+{"name":"Utah Jazz", "league":"NBA", "coordinates": { "lng": -111.9011, "lat": 40.7683 } }
+{"name":"Golden State Warriors", "league":"NBA", "coordinates": { "lng": -122.2031, "lat": 37.7503 } }
+{"name":"Los Angeles Clippers", "league":"NBA", "coordinates": { "lng": -118.2672, "lat": 34.0431 } }
+{"name":"Los Angeles Lakers", "league":"NBA", "coordinates": { "lng": -118.2672, "lat": 34.0431 } }
+{"name":"Phoenix Suns", "league":"NBA", "coordinates": { "lng": -112.0714, "lat": 33.4458 } }
+{"name":"Sacramento Kings", "league":"NBA", "coordinates": { "lng": -121.5181, "lat": 38.6492 } }
+{"name":"Dallas Mavericks", "league":"NBA", "coordinates": { "lng": -96.8103, "lat": 32.7906 } }
+{"name":"Houston Rockets", "league":"NBA", "coordinates": { "lng": -95.3622, "lat": 29.7508 } }
+{"name":"Memphis Grizzlies", "league":"NBA", "coordinates": { "lng": -90.0506, "lat": 35.1383 } }
+{"name":"New Orleans Pelicans", "league":"NBA", "coordinates": { "lng": -90.0819, "lat": 29.9489 } }
+{"name":"San Antonio Spurs", "league":"NBA", "coordinates": { "lng": -98.4375, "lat": 29.4269 } }
+{"name":"Atlanta United FC", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Chicago Fire", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Columbus Crew SC", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"D.C. United", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Montreal Impact", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"New England Revolution", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"New York City FC", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"New York Red Bulls", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Orlando City SC", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Philadelphia Union", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Toronto FC", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Colorado Rapids", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"FC Dallas", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Houston Dynamo", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"LA Galaxy", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Los Angeles FC", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Minnesota United FC", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Portland Timbers", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Real Salt Lake", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"San Jose Earthquakes", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Seattle Sounders FC", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Sporting Kansas City", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Vancouver Whitecaps FC", "league":"MLS", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Boston Bruins", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Buffalo Sabres", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Detroit Red Wings", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Florida Panthers", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Montreal Canadiens", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Ottawa Senators", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Tampa Bay Lightning", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Toronto Maple Leafs", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Carolina Hurricanes", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Columbus Blue Jackets", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"New Jersey Devils", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"New York Islanders", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"New York Rangers", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Philadelphia Flyers", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Pittsburgh Penguins", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Washington Capitals", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Chicago Blackhawks", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Colorado Avalanche", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Dallas Stars", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Minnesota Wild", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Nashville Predators", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"St. Louis Blues", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Winnipeg Jets", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Anaheim Ducks", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Arizona Coyotes", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Calgary Flames", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Edmonton Oilers", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Los Angeles Kings", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"San Jose Sharks", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Vancouver Canucks", "league":"NHL", "coordinates": { "lng": null, "lat": null  } }
+{"name":"Vegas Golden Knights", "league":"NHL", "coordinates": { "lng": null, "lat": null } }

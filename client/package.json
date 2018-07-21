@@ -1,0 +1,39 @@
+{
+  "name": "fly-your-flag",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:3001",
+  "homepage": "https://steve626.github.io/flyYourFlag/",
+  "dependencies": {
+    "@material-ui/core": "^1.3.1",
+    "@material-ui/icons": "^1.1.0",
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "gh-pages": "^1.2.0",
+    "google-map-react": "^1.0.5",
+    "google-maps-react": "^2.0.2",
+    "os": "^0.1.1",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-css-modules": "^4.7.4",
+    "react-dom": "^16.4.1",
+    "react-router-bootstrap": "^0.24.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "webpack": "^3.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "style-loader": "^0.21.0",
+    "webpack-cli": "^3.0.8"
+  }
+}
