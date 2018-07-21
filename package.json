@@ -33,7 +33,6 @@
     "seed2": "node scripts/seedsFaker.js",
     "test": "nodemon --exec mocha -R min --timeout 10000",
     "start": "node server.js",
-    //"start:dev": "concurrently \"nodemon --ignore 'client/*'\" \"npm run client\"",
     "client": "cd client && npm run start"
   },
   "repository": "git+https://github.com/steve626/flyYourFlag.git",
